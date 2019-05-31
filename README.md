@@ -1,0 +1,2 @@
+# Week 1:
+This is the repo for the project I completed for the first week of my JS Independent Study. In it I learned about eslint, prettier, and vscode, as well as their configs. I used PUG, SASS, and TypeScript to make an incredibly basic website. This week was more about learning the linter, formatter, and vscode. Not so much about PUG, SASS, and TypeScript.
